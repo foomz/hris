@@ -37,6 +37,7 @@ The application will be available at `http://localhost:3000`.
 - `PayrollAccounts`: Manages payroll accounts
 - `Payroll`: Handles payroll operations
 - `PayrollManagement`: Overall payroll management system
+![image](https://github.com/user-attachments/assets/61e1e29e-98f6-4bc4-a099-b14c632ee0f2)
 
 ### Routing
 
